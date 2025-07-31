@@ -1,6 +1,6 @@
 ## LBYARCH - S11A
 ## Members
-Chu, Andrei Benedict
+Chu, Andrei Benedict                                                             
 De Jesus, Andrei Zarmin
 
 ## Instructions Specs in docs:
