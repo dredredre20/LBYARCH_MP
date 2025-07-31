@@ -1,0 +1,2 @@
+^C:\USERS\DJ_ZA\SOURCE\REPOS\LBYARCH_MP2\ASMFUNC.ASM
+C:\nasm\nasm -f win64 asmfunc.asm
