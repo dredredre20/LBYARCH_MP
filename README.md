@@ -10,5 +10,5 @@ Go to your root folder via command line and put the commands inside the terminal
 4. .\main.exe
 
 
-## During runtimee:
+## During runtime:
 When prompted to enter a filename, enter `input.txt`
